@@ -1,3 +1,23 @@
+🧠 Quiz Quest is a customizable quiz app that challenges users with questions based on category and difficulty. It features real-time scoring, a timer, animated transitions, high score tracking, and a polished UI built with modern React and Tailwind CSS.
+
+🔧 Tech Stack
+⚛️ React.js – Core frontend framework
+
+💨 Tailwind CSS – Utility-first CSS styling
+
+🎨 ShadCN/UI – UI components
+
+⏱ Lucide Icons – Icon set for UI clarity
+
+💾 LocalStorage – Persistent high scores
+
+🧪 TypeScript – Type safety and scalability
+
+
+
+
+
+
 # Welcome to your Lovable project
 
 ## Project info
