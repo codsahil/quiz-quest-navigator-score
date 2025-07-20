@@ -14,6 +14,14 @@
 🧪 TypeScript – Type safety and scalability
 
 
+#THIS IS A SCREENSHOT OF EXAMPLE OF WEBSITE
+
+![img alt](https://github.com/codsahil/quiz-quest-navigator-score/blob/main/Screenshot-1.png?raw=true)
+
+![img alt](https://github.com/codsahil/quiz-quest-navigator-score/blob/main/Screenshot-2.png?raw=true)
+
+
+
 
 
 
